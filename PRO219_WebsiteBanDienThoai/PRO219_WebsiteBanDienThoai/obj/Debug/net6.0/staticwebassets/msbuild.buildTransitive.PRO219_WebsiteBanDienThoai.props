@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PRO219_WebsiteBanDienThoai.props" />
+</Project>
