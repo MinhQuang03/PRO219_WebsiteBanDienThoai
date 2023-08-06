@@ -83,6 +83,7 @@ namespace PRO219_WebsiteBanDienThoai.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Cart>().HasOne(c => c.Accounts).WithOne(p => p.Carts).HasForeignKey<Cart>();
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
     }

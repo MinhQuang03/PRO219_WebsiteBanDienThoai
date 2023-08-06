@@ -4,7 +4,7 @@
     {
         public Guid Id { get; set; }    
         
-        public Guid IdAccount { get; set; }
+        public Guid? IdAccount { get; set; }
 
         public Guid IdPhoneDetaild { get; set; }
 

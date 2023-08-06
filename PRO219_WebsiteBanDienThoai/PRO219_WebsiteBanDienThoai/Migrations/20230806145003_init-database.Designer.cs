@@ -12,7 +12,7 @@ using PRO219_WebsiteBanDienThoai.Models;
 namespace PRO219_WebsiteBanDienThoai.Migrations
 {
     [DbContext(typeof(ShoppingDbContext))]
-    [Migration("20230806134049_init-database")]
+    [Migration("20230806145003_init-database")]
     partial class initdatabase
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -121,7 +121,7 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
                     b.Property<DateTime>("CreatedTime")
                         .HasColumnType("datetime2");
 
-                    b.Property<Guid>("IdAccount")
+                    b.Property<Guid?>("IdAccount")
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("Name")
@@ -206,7 +206,6 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
             modelBuilder.Entity("PRO219_WebsiteBanDienThoai.Models.Cart", b =>
                 {
                     b.Property<Guid?>("IdAccount")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("Description")
@@ -223,7 +222,7 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<Guid>("IdAccount")
+                    b.Property<Guid?>("IdAccount")
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<Guid>("IdPhoneDetaild")
@@ -582,18 +581,15 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
                     b.Property<DateTime?>("DateRank")
                         .HasColumnType("datetime2");
 
-                    b.Property<Guid>("IdAccount")
-                        .HasColumnType("uniqueidentifier");
-
                     b.Property<string>("Policies")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("RankName")
+                    b.Property<decimal?>("Requirement")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<string>("Username")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("Requirement")
-                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -815,9 +811,7 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
                 {
                     b.HasOne("PRO219_WebsiteBanDienThoai.Models.Account", "Accounts")
                         .WithMany()
-                        .HasForeignKey("IdAccount")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("IdAccount");
 
                     b.Navigation("Accounts");
                 });
@@ -849,13 +843,22 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
                     b.Navigation("PhoneDetailds");
                 });
 
+            modelBuilder.Entity("PRO219_WebsiteBanDienThoai.Models.Cart", b =>
+                {
+                    b.HasOne("PRO219_WebsiteBanDienThoai.Models.Account", "Accounts")
+                        .WithOne("Carts")
+                        .HasForeignKey("PRO219_WebsiteBanDienThoai.Models.Cart", "IdAccount")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Accounts");
+                });
+
             modelBuilder.Entity("PRO219_WebsiteBanDienThoai.Models.CartDetails", b =>
                 {
                     b.HasOne("PRO219_WebsiteBanDienThoai.Models.Cart", "Carts")
                         .WithMany()
-                        .HasForeignKey("IdAccount")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("IdAccount");
 
                     b.HasOne("PRO219_WebsiteBanDienThoai.Models.PhoneDetaild", "PhoneDetailds")
                         .WithMany()
@@ -1063,6 +1066,11 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
                         .IsRequired();
 
                     b.Navigation("BillDetails");
+                });
+
+            modelBuilder.Entity("PRO219_WebsiteBanDienThoai.Models.Account", b =>
+                {
+                    b.Navigation("Carts");
                 });
 #pragma warning restore 612, 618
         }
