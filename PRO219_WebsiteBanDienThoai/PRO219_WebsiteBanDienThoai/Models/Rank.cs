@@ -4,10 +4,9 @@
     {
         public Guid Id { get; set; }
 
-        public Guid IdAccount { get; set; }
-        public string RankName { get; set; }    
+        public string Username { get; set; }    
 
-        public int? Requirement { get; set; }
+        public decimal? Requirement { get; set; }
 
         public DateTime? DateRank { get; set; }
 

@@ -19,5 +19,7 @@
         public int Status { get; set; }
 
         public int? Points { get; set; }
+
+        public virtual Cart? Carts { get; set; }
     }
 }

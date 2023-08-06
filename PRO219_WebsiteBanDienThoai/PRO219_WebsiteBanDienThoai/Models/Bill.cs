@@ -16,7 +16,7 @@
 
         public int Status { get; set; }
 
-        public Guid IdAccount { get; set; }
+        public Guid? IdAccount { get; set; }
 
         public virtual Account Accounts { get; set; }
 

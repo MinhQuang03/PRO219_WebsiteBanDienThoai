@@ -56,18 +56,6 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Carts",
-                columns: table => new
-                {
-                    IdAccount = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
-                    Description = table.Column<string>(type: "nvarchar(max)", nullable: true)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Carts", x => x.IdAccount);
-                });
-
-            migrationBuilder.CreateTable(
                 name: "ChargingportType",
                 columns: table => new
                 {
@@ -201,9 +189,8 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
-                    IdAccount = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
-                    RankName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Requirement = table.Column<int>(type: "int", nullable: true),
+                    Username = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Requirement = table.Column<decimal>(type: "decimal(18,2)", nullable: true),
                     DateRank = table.Column<DateTime>(type: "datetime2", nullable: true),
                     Policies = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
@@ -283,13 +270,30 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
                     Phone = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Address = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Status = table.Column<int>(type: "int", nullable: false),
-                    IdAccount = table.Column<Guid>(type: "uniqueidentifier", nullable: false)
+                    IdAccount = table.Column<Guid>(type: "uniqueidentifier", nullable: true)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Bill", x => x.Id);
                     table.ForeignKey(
                         name: "FK_Bill_Accounts_IdAccount",
+                        column: x => x.IdAccount,
+                        principalTable: "Accounts",
+                        principalColumn: "Id");
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Carts",
+                columns: table => new
+                {
+                    IdAccount = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    Description = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Carts", x => x.IdAccount);
+                    table.ForeignKey(
+                        name: "FK_Carts_Accounts_IdAccount",
                         column: x => x.IdAccount,
                         principalTable: "Accounts",
                         principalColumn: "Id",
@@ -532,7 +536,7 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
-                    IdAccount = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    IdAccount = table.Column<Guid>(type: "uniqueidentifier", nullable: true),
                     IdPhoneDetaild = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
                     Quantity = table.Column<int>(type: "int", nullable: false),
                     Status = table.Column<int>(type: "int", nullable: false)
@@ -544,8 +548,7 @@ namespace PRO219_WebsiteBanDienThoai.Migrations
                         name: "FK_CartsDetails_Carts_IdAccount",
                         column: x => x.IdAccount,
                         principalTable: "Carts",
-                        principalColumn: "IdAccount",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "IdAccount");
                     table.ForeignKey(
                         name: "FK_CartsDetails_PhoneDetailds_IdPhoneDetaild",
                         column: x => x.IdPhoneDetaild,
