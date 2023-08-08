@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PRO219_WebsiteBanDienThoai_FPhone/1.0.0": {
+        "runtime": {
+          "PRO219_WebsiteBanDienThoai_FPhone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRO219_WebsiteBanDienThoai_FPhone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

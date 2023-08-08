@@ -4,20 +4,23 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using PRO219_WebsiteBanDienThoai.Models;
 using System.Text;
+using PRO219_WebsiteBanDienThoai.IRepositories;
+using PRO219_WebsiteBanDienThoai.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+//builder.Services.AddScoped<IAccountStaffRepository,AccountStaffRepository>();
 
 
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ShoppingDbContext>().AddDefaultTokenProviders();
 
-//builder.Services.AddDbContext<ShoppingDbContext>(options =>
-//{
-//    options.UseSqlServer(@"Data Source=MSI;Initial Catalog=PRO219_WebsiteBanDienThoai;Integrated Security=True;TrustServerCertificate=True");
-   
-//});
+builder.Services.AddDbContext<ShoppingDbContext>(options =>
+{
+    options.UseSqlServer(@"Data Source=MSI;Initial Catalog=PRO219_WebsiteBanDienThoai;Integrated Security=True;TrustServerCertificate=True");
+
+});
 
 builder.Services.AddAuthentication(options =>
 {

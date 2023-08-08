@@ -79,11 +79,11 @@ namespace PRO219_WebsiteBanDienThoai.Models
         public DbSet<WarrantyCard> WarrantyCards { get; set; }
         public DbSet<BillPhoneDetail> BillPhoneDetails { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(@"Data Source=MSI;Initial Catalog=PRO219_WebsiteBanDienThoai;Integrated Security=True;TrustServerCertificate=True");
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer(@"Data Source=MSI;Initial Catalog=PRO219_WebsiteBanDienThoai;Integrated Security=True;TrustServerCertificate=True");
          
-        }
+        //}
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
