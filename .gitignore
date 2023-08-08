@@ -1,0 +1,10 @@
+
+*.v2
+*.vsidx
+PRO219_WebsiteBanDienThoai/.vs/PRO219_WebsiteBanDienThoai/v17/.suo
+*.bin
+*.dll
+*.BuildWithSkipAnalyzers
+*.CopyComplete
+PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/ScaffoldingReadMe.txt
+*.user
