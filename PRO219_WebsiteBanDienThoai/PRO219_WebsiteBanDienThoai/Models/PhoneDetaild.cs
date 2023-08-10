@@ -65,5 +65,7 @@
         public virtual Color Colors { get; set; }
 
         public virtual Discount Discounts { get; set; }
+      
+
     }
 }

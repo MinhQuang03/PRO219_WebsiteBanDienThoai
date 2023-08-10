@@ -1,9 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System.Reflection;
+using System.Reflection.Emit;
 
 namespace PRO219_WebsiteBanDienThoai.Models
 {
-    public class ShoppingDbContext : DbContext
+    public class ShoppingDbContext : IdentityDbContext<ApplicationUser>
     {
         public ShoppingDbContext()
         {
@@ -62,29 +65,31 @@ namespace PRO219_WebsiteBanDienThoai.Models
 
         public DbSet<Review> Reviews { get; set; }  
 
-        public DbSet<Role> Roles { get; set; }
+       
 
         public DbSet<Rom> Rom { get; set; } 
 
         public DbSet<Sim> Sim { get; set; }
 
-        public DbSet<Staff> Staff { get; set; }
-
+       
         public DbSet<Transaction> Transactions { get; set; }
 
         public DbSet<Warranty> Warranty { get; set;}
 
         public DbSet<WarrantyCard> WarrantyCards { get; set; }
+        public DbSet<BillPhoneDetail> BillPhoneDetails { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(@"Data Source=MSI\SQLEXPRESS;Initial Catalog=PRO219_WebsiteBanDienThoai;User ID=QuangBm36;Password=123456;TrustServerCertificate=True");
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer(@"Data Source=MSI;Initial Catalog=PRO219_WebsiteBanDienThoai;Integrated Security=True;TrustServerCertificate=True");
+         
+        //}
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder builder)
         {
-            modelBuilder.Entity<Cart>().HasOne(c => c.Accounts).WithOne(p => p.Carts).HasForeignKey<Cart>();
-            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+            base.OnModelCreating(builder);
+            builder.Entity<Cart>().HasOne(c => c.Accounts).WithOne(p => p.Carts).HasForeignKey<Cart>();
+            builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
     }
 }
