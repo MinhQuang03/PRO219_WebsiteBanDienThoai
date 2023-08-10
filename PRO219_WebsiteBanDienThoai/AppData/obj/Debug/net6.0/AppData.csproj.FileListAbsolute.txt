@@ -34,3 +34,17 @@ C:\Users\03953\OneDrive\Desktop\FPhoneBackUp\PRO219_WebsiteBanDienThoai\AppData\
 C:\Users\03953\OneDrive\Desktop\FPhoneBackUp\PRO219_WebsiteBanDienThoai\AppData\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\03953\OneDrive\Desktop\FPhoneBackUp\PRO219_WebsiteBanDienThoai\AppData\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\03953\OneDrive\Desktop\FPhoneBackUp\PRO219_WebsiteBanDienThoai\AppData\obj\Debug\net6.0\AppData.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\obj\Debug\net6.0\AppData.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\obj\Debug\net6.0\AppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\obj\Debug\net6.0\AppData.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\obj\Debug\net6.0\AppData.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\obj\Debug\net6.0\AppData.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\obj\Debug\net6.0\AppData.dll
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\obj\Debug\net6.0\refint\AppData.dll
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\obj\Debug\net6.0\AppData.pdb
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\bin\Debug\net6.0\AppData.deps.json
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\bin\Debug\net6.0\AppData.runtimeconfig.json
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\bin\Debug\net6.0\AppData.dll
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\bin\Debug\net6.0\AppData.pdb
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\obj\Debug\net6.0\AppData.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\AppData\obj\Debug\net6.0\ref\AppData.dll
