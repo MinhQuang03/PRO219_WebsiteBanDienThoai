@@ -1,4 +1,6 @@
-﻿namespace PRO219_WebsiteBanDienThoai.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace PRO219_WebsiteBanDienThoai.Models
 {
     public class Account
     {
@@ -19,7 +21,7 @@
         public int Status { get; set; }
 
         public int? Points { get; set; }
-
+    
         public virtual Cart? Carts { get; set; }
     }
 }

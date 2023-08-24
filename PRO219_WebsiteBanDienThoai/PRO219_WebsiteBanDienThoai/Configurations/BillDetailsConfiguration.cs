@@ -10,7 +10,7 @@ namespace PRO219_WebsiteBanDienThoai.Configurations
         {
             builder.HasKey(p => p.Id);
 
-            builder.HasOne(p => p.PhoneDetailds).WithMany().HasForeignKey(p => p.IdPhoneDetaild);
+     
 
             builder.HasOne(p => p.Discounts).WithMany().HasForeignKey(p => p.IdDiscount);
 
