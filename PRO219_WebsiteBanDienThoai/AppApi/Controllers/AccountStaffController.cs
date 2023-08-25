@@ -21,12 +21,12 @@ namespace AppApi.Controllers
         public async Task<IActionResult> SignUp(SignUpModel signUpModel)
         {
             var result = await _staffRepository.SignUpAsync(signUpModel);
-            if (result.Succeeded)
+            if (result)
             {
-                return Ok(result.Succeeded);
+                return Ok(result);
             }
 
-            return BadRequest(result.Errors);
+            return BadRequest(result);
         }
 
         [HttpPost("SignIn")]
@@ -36,7 +36,12 @@ namespace AppApi.Controllers
 
             if (string.IsNullOrEmpty(result))
             {
-                return Unauthorized();
+                return BadRequest(new ApiResponse()
+                {
+                    Success = false,
+                    Message = "Invalid username/password",
+                    Data = signInModel
+                });
             }
 
             return Ok(result);
