@@ -1,11 +1,11 @@
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+﻿
 using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using AppData.FPhoneDbContext;
-using AppData.IRepositories;
+using AppApi;
+using AppData.FPhoneDbContexts;
 using AppData.Models;
-using AppData.Repositories;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,31 +17,29 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<FPhoneDbContext>().AddDefaultTokenProviders();
+
 builder.Services.AddDbContext<FPhoneDbContext>(options => {
     options.UseSqlServer(@"Data Source=MSI\SQLEXPRESS;Initial Catalog=PRO219_WebsiteBanDienThoai;Integrated Security=True;TrustServerCertificate=True");
 });
 
-// Life cycle DI: AddSingleton(), AddTransient(), AddScoped()
-builder.Services.AddScoped<IAccountStaffRepository, AccountStaffRepository>();
+ServiceRegistration.Configure(builder.Services);
 
-builder.Services.AddAuthentication(options =>
+var secretKey = builder.Configuration["AppSettings:SecretKey"];
+var secretKeyByte = Encoding.UTF8.GetBytes(secretKey);
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
 {
-    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-    options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
-}).AddJwtBearer(options =>
-{
-    options.SaveToken = true;
-    options.RequireHttpsMetadata = false;
-    options.TokenValidationParameters = new TokenValidationParameters
+    opt.TokenValidationParameters = new TokenValidationParameters()
     {
-        ValidateIssuer = true,
-        ValidateAudience = true,
-        ValidAudience = builder.Configuration["JWT:ValidAudience"],
-        ValidIssuer = builder.Configuration["JWT:ValidIssuer"],
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:Secret"]))
+        //Tự cấp token
+        ValidateIssuer = false,
+        ValidateAudience = false,
+
+        //Ký vào token
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = new SymmetricSecurityKey(secretKeyByte),
+
+        ClockSkew = TimeSpan.Zero
     };
 
 });
@@ -62,3 +60,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+
