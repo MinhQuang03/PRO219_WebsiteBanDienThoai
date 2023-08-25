@@ -1,567 +1,567 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PRO219_WebsiteBanDienThoai_FPhone.bundle.scp.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PRO219_WebsiteBanDienThoai_FPhone.bundle.scp.css",
       "PackagePath": "staticwebassets\\PRO219_WebsiteBanDienThoai_FPhone.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\app.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\app.css",
       "PackagePath": "staticwebassets\\assets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\materialdesignicons.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\materialdesignicons.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\materialdesignicons.min.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\prism.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\prism.css",
       "PackagePath": "staticwebassets\\assets\\css\\prism.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\themify-icons.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\css\\themify-icons.css",
       "PackagePath": "staticwebassets\\assets\\css\\themify-icons.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.eot",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.svg",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.ttf",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff2",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\themify.eot",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\themify.svg",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\themify.ttf",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\themify.woff",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\color-config.JPG",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\color-config.JPG",
       "PackagePath": "staticwebassets\\assets\\images\\color-config.JPG"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\common-layout.JPG",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\common-layout.JPG",
       "PackagePath": "staticwebassets\\assets\\images\\common-layout.JPG"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\example-routing.JPG",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\example-routing.JPG",
       "PackagePath": "staticwebassets\\assets\\images\\example-routing.JPG"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\full-layout.JPG",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\full-layout.JPG",
       "PackagePath": "staticwebassets\\assets\\images\\full-layout.JPG"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\logo\\favicon.png",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\logo\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\logo\\logo.png",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\logo\\logo.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo\\logo.png"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\side-nav-interface.JPG",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\side-nav-interface.JPG",
       "PackagePath": "staticwebassets\\assets\\images\\side-nav-interface.JPG"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\side-nav.JPG",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\side-nav.JPG",
       "PackagePath": "staticwebassets\\assets\\images\\side-nav.JPG"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\theme-config.JPG",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\images\\theme-config.JPG",
       "PackagePath": "staticwebassets\\assets\\images\\theme-config.JPG"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\bootstrap.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\jquery.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\popper.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\prism.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\prism.js",
       "PackagePath": "staticwebassets\\assets\\js\\prism.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shAutoloader.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shAutoloader.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushAS3.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushAS3.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushBash.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushBash.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushCSharp.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushCSharp.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushCpp.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushCpp.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushCss.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushCss.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushDelphi.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushDelphi.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushDiff.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushDiff.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushErlang.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushErlang.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushGroovy.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushGroovy.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushJScript.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushJScript.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushJava.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushJava.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushPerl.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushPerl.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushPhp.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushPhp.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushPlain.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushPlain.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushPython.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushPython.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushRuby.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushRuby.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushSass.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushSass.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushScala.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushScala.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushSql.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushSql.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushVb.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushVb.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shBrushXml.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shBrushXml.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shCore.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shCore.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shCore.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shLegacy.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\scripts\\shLegacy.js",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\scripts\\shLegacy.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCore.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCore.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shCore.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreDefault.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shCoreDefault.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreDjango.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shCoreDjango.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreEclipse.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shCoreEclipse.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreEmacs.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shCoreEmacs.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreMDUltra.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shCoreMDUltra.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreMidnight.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shCoreMidnight.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shCoreRDark.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shCoreRDark.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeDefault.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shThemeDefault.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeDjango.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shThemeDjango.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeEclipse.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shThemeEclipse.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeEmacs.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shThemeEmacs.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeMDUltra.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shThemeMDUltra.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeMidnight.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shThemeMidnight.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\assets\\js\\syntax-highlighter\\styles\\shThemeRDark.css",
       "PackagePath": "staticwebassets\\assets\\js\\syntax-highlighter\\styles\\shThemeRDark.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\03953\\OneDrive\\Desktop\\FPhoneBackUp\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
