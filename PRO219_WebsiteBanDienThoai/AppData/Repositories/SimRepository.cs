@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using AppData.FPhoneDbContexts;
+﻿using AppData.FPhoneDbContexts;
 using AppData.IRepositories;
 using AppData.Models;
-using Microsoft.AspNetCore.Identity;
 
 namespace AppData.Repositories
 {
