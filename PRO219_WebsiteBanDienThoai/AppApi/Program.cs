@@ -20,7 +20,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<FPhoneDbContext>().AddDefaultTokenProviders();
 builder.Services.AddDbContext<FPhoneDbContext>(options => {
-    options.UseSqlServer(@"Data Source=MSI;Initial Catalog=PRO219_WebsiteBanDienThoai;Integrated Security=True;TrustServerCertificate=True");
+    options.UseSqlServer(@"Data Source = LKK\SQLEXPRESS;Initial Catalog =DB_DATN;User Id = khanhlk;Password = 123456;Connect Timeout=3");
 });
 
 // Life cycle DI: AddSingleton(), AddTransient(), AddScoped()
