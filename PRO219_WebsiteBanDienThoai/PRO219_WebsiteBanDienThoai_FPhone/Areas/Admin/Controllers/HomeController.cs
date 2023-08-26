@@ -1,4 +1,5 @@
-﻿using AppData.Models;
+﻿using System.Data;
+using AppData.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PRO219_WebsiteBanDienThoai_FPhone.Areas.Admin.Controllers
@@ -16,6 +17,11 @@ namespace PRO219_WebsiteBanDienThoai_FPhone.Areas.Admin.Controllers
 
         [HttpGet]
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        public IActionResult Accounts()
         {
             return View();
         }
