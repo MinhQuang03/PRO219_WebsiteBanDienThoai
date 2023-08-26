@@ -254,3 +254,4 @@ C:\Users\03953\OneDrive\Desktop\FPhoneBackUp\PRO219_WebsiteBanDienThoai\PRO219_W
 C:\Users\03953\OneDrive\Desktop\FPhoneBackUp\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone\obj\Debug\net6.0\PRO219_WebsiteBanDienThoai_FPhone.pdb
 C:\Users\03953\OneDrive\Desktop\FPhoneBackUp\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone\obj\Debug\net6.0\PRO219_WebsiteBanDienThoai_FPhone.genruntimeconfig.cache
 C:\Users\03953\OneDrive\Desktop\FPhoneBackUp\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone\obj\Debug\net6.0\ref\PRO219_WebsiteBanDienThoai_FPhone.dll
+C:\Users\03953\OneDrive\Desktop\FPhoneBackUp\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
