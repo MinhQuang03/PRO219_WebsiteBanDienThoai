@@ -38,7 +38,9 @@ namespace AppData.Repositories
 
         public async Task<Color> Update(Color obj)
         {
-            _dbContext.Colors.Update(obj);
+            var a = await _dbContext.Colors.FindAsync(obj.Id);
+            a.Name = obj.Name;
+            _dbContext.Colors.Update(a);
             await _dbContext.SaveChangesAsync();
             return obj;
         }

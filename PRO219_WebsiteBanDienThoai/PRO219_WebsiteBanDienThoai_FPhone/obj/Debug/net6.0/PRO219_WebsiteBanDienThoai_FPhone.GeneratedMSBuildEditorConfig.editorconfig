@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhcmdpbmdwb3J0VHlwZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Home/Accounts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxBY2NvdW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

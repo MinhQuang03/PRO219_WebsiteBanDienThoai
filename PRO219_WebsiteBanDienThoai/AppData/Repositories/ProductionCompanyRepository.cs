@@ -38,7 +38,9 @@ namespace AppData.Repositories
 
         public async Task<ProductionCompany> Update(ProductionCompany obj)
         {
-            _dbContext.ProductionCompany.Update(obj);
+            var a = await _dbContext.ProductionCompany.FindAsync(obj.Id);
+            a.Name = obj.Name;
+            _dbContext.ProductionCompany.Update(a);
             await _dbContext.SaveChangesAsync();
             return obj;
         }
