@@ -6,10 +6,10 @@ using System.Text;
 namespace PRO219_WebsiteBanDienThoai_FPhone.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class ColorController : Controller
+    public class ChipGPUsController : Controller
     {
         public readonly HttpClient _httpClient;
-        public ColorController(HttpClient httpClient)
+        public ChipGPUsController(HttpClient httpClient)
         {
 
             _httpClient = httpClient;
@@ -17,8 +17,8 @@ namespace PRO219_WebsiteBanDienThoai_FPhone.Areas.Admin.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            var datajson = await _httpClient.GetStringAsync("api/Colors/get");
-            var obj = JsonConvert.DeserializeObject<List<Color>>(datajson);
+            var datajson = await _httpClient.GetStringAsync("api/ChipGPUs/get");
+            var obj = JsonConvert.DeserializeObject<List<ChipGPUs>>(datajson);
             return View(obj);
         }
 
@@ -28,13 +28,13 @@ namespace PRO219_WebsiteBanDienThoai_FPhone.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(Color obj)
+        public async Task<IActionResult> Create(ChipGPUs obj)
         {
             try
             {
                 var jsonData = JsonConvert.SerializeObject(obj);
                 HttpContent content = new StringContent(jsonData, Encoding.UTF8, "application/json");
-                var response = await _httpClient.PostAsync("api/Colors/add", content);
+                var response = await _httpClient.PostAsync("api/ChipGPUs/add", content);
                 if (response.IsSuccessStatusCode)
                 {
                     TempData["successMessage"] = "Them thanh cong";
@@ -53,19 +53,19 @@ namespace PRO219_WebsiteBanDienThoai_FPhone.Areas.Admin.Controllers
         [HttpGet]
         public async Task<IActionResult> Edit(Guid id)
         {
-            var datajson = await _httpClient.GetStringAsync($"api/Colors/getById/{id}");
-            var obj = JsonConvert.DeserializeObject<Color>(datajson);
+            var datajson = await _httpClient.GetStringAsync($"api/ChipGPUs/getById/{id}");
+            var obj = JsonConvert.DeserializeObject<ChipGPUs>(datajson);
             return View(obj);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Edit(Guid id, Color obj)
+        public async Task<IActionResult> Edit(Guid id, ChipGPUs obj)
         {
             var jsonData = JsonConvert.SerializeObject(obj);
 
             HttpContent content = new StringContent(jsonData, Encoding.UTF8, "application/json");
 
-            var response = await _httpClient.PutAsync("api/Colors/update", content);
+            var response = await _httpClient.PutAsync("api/ChipGPUs/update", content);
             return RedirectToAction("Index");
         }
 
@@ -73,7 +73,7 @@ namespace PRO219_WebsiteBanDienThoai_FPhone.Areas.Admin.Controllers
         public async Task<IActionResult> Delete(Guid id)
         {
 
-            var response = await _httpClient.DeleteAsync($"api/Colors/delete/{id}");
+            var response = await _httpClient.DeleteAsync($"api/ChipGPUs/delete/{id}");
             return RedirectToAction("Index");
         }
     }
