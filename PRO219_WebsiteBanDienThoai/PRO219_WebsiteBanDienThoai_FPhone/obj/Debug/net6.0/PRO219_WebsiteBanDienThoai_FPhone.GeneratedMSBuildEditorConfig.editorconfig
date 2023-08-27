@@ -16,8 +16,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhcmdpbmdwb3J0VHlwZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhcmdpbmdwb3J0VHlwZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhcmdpbmdwb3J0VHlwZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Home/Accounts.cshtml]
