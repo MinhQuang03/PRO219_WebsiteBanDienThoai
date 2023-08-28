@@ -25,7 +25,7 @@ namespace AppData.Configuration
 
             builder.HasOne(p => p.Phones).WithMany().HasForeignKey(p => p.IdPhone);
 
-            builder.HasOne(p => p.ChipCPUs).WithMany().HasForeignKey(p => p.IdChipGPU);
+            builder.HasOne(p => p.ChipCPUs).WithMany().HasForeignKey(p => p.IdChipCPU);
 
             builder.HasOne(p => p.ChipGPUs).WithMany().HasForeignKey(p => p.IdChipGPU);
 

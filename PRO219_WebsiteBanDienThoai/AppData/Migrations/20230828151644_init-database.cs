@@ -554,8 +554,8 @@ namespace AppData.Migrations
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_PhoneDetailds_ChipCPUs_IdChipGPU",
-                        column: x => x.IdChipGPU,
+                        name: "FK_PhoneDetailds_ChipCPUs_IdChipCPU",
+                        column: x => x.IdChipCPU,
                         principalTable: "ChipCPUs",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -865,6 +865,11 @@ namespace AppData.Migrations
                 name: "IX_PhoneDetailds_IdChargingport",
                 table: "PhoneDetailds",
                 column: "IdChargingport");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_PhoneDetailds_IdChipCPU",
+                table: "PhoneDetailds",
+                column: "IdChipCPU");
 
             migrationBuilder.CreateIndex(
                 name: "IX_PhoneDetailds_IdChipGPU",
