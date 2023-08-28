@@ -47,12 +47,11 @@
                 <img src="@Url.Content(item.Image)" alt="Hình ảnh" style="width:50px">
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.IdProductionCompany)
+                    @ViewBag.ProductionCompanyNames[item.IdProductionCompany]
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Id }) 
+                
             </td>
         </tr>
 }
