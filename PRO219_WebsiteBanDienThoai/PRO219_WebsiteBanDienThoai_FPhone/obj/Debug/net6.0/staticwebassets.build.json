@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6juIkjurzj8P9Oc1CJseCpzlnhCG+QTihul4RS3GcjE=",
+  "Hash": "r/g6jMddLqjKewrCthi4ekpDLZrd1GIEDpm+8alxweQ=",
   "Source": "PRO219_WebsiteBanDienThoai_FPhone",
   "BasePath": "_content/PRO219_WebsiteBanDienThoai_FPhone",
   "Mode": "Default",
@@ -14584,6 +14584,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\Untitled.png",
+      "SourceId": "PRO219_WebsiteBanDienThoai_FPhone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\",
+      "BasePath": "_content/PRO219_WebsiteBanDienThoai_FPhone",
+      "RelativePath": "img/Untitled.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Untitled.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\z4602923215239_e515aab778879c4eac8ba5858b190ce6.jpg",
+      "SourceId": "PRO219_WebsiteBanDienThoai_FPhone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\",
+      "BasePath": "_content/PRO219_WebsiteBanDienThoai_FPhone",
+      "RelativePath": "img/z4602923215239_e515aab778879c4eac8ba5858b190ce6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\z4602923215239_e515aab778879c4eac8ba5858b190ce6.jpg"
     },
     {
       "Identity": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\js\\site.js",

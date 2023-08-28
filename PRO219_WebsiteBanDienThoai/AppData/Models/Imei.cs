@@ -10,6 +10,6 @@
 
         public Guid? IdPhoneDetaild { get; set; }
 
-        public virtual PhoneDetaild PhoneDetailds { get; set; }
+        public virtual PhoneDetaild? PhoneDetailds { get; set; }
     }
 }

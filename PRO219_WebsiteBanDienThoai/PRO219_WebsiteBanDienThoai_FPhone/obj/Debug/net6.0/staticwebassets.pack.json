@@ -3425,6 +3425,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\Untitled.png",
+      "PackagePath": "staticwebassets\\img\\Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\z4602923215239_e515aab778879c4eac8ba5858b190ce6.jpg",
+      "PackagePath": "staticwebassets\\img\\z4602923215239_e515aab778879c4eac8ba5858b190ce6.jpg"
+    },
+    {
       "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

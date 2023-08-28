@@ -42,29 +42,29 @@
 
         public int Status { get; set; }
 
-        public virtual Ram Rams { get; set; }
+        public virtual Ram? Rams { get; set; }
 
-        public virtual Material Materials { get; set; }
+        public virtual Material? Materials { get; set; }
 
-        public virtual Rom Roms { get; set; }
+        public virtual Rom? Roms { get; set; }
 
-        public virtual OperatingSystems OperatingSystems { get; set; }
+        public virtual OperatingSystems? OperatingSystems { get; set; }
 
-        public virtual Battery Batteries { get; set; }
+        public virtual Battery? Batteries { get; set; }
 
-        public virtual Sim Sims { get; set; }
+        public virtual Sim? Sims { get; set; }
 
-        public virtual ChargingportType ChargingportTypes { get; set; }
+        public virtual ChargingportType? ChargingportTypes { get; set; }
 
-        public virtual Phone Phones { get; set; }
+        public virtual Phone? Phones { get; set; }
 
-        public virtual ChipCPUs ChipCPUs { get; set; }
+        public virtual ChipCPUs? ChipCPUs { get; set; }
 
-        public virtual ChipGPUs ChipGPUs { get; set; }
+        public virtual ChipGPUs? ChipGPUs { get; set; }
 
-        public virtual Color Colors { get; set; }
+        public virtual Color? Colors { get; set; }
 
-        public virtual Discount Discounts { get; set; }
+        public virtual Discount? Discounts { get; set; }
       
 
     }
