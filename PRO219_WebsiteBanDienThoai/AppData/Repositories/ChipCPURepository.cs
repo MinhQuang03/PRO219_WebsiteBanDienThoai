@@ -38,7 +38,9 @@ namespace AppData.Repositories
 
         public async Task<ChipCPUs> Update(ChipCPUs obj)
         {
-            _dbContext.ChipCPUs.Update(obj);
+            var a = await _dbContext.ChipCPUs.FindAsync(obj.Id);
+            a.Name = obj.Name;
+            _dbContext.ChipCPUs.Update(a);
             await _dbContext.SaveChangesAsync();
             return obj;
         }

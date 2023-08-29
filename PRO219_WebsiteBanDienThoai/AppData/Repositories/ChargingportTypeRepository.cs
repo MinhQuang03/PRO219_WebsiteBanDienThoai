@@ -38,7 +38,9 @@ namespace AppData.Repositories
 
         public async Task<ChargingportType> Update(ChargingportType obj)
         {
-            _dbContext.ChargingportType.Update(obj);
+            var a = await _dbContext.ChargingportType.FindAsync(obj.Id);
+            a.Name = obj.Name;
+            _dbContext.ChargingportType.Update(a);
             await _dbContext.SaveChangesAsync();
             return obj;
         }

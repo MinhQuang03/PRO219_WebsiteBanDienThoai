@@ -38,7 +38,9 @@ namespace AppData.Repositories
 
         public async Task<ChipGPUs> Update(ChipGPUs obj)
         {
-            _dbContext.ChipGPUs.Update(obj);
+            var a = await _dbContext.ChipGPUs.FindAsync(obj.Id);
+            a.Name = obj.Name;
+            _dbContext.ChipGPUs.Update(a);
             await _dbContext.SaveChangesAsync();
             return obj;
         }

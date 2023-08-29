@@ -3433,6 +3433,7 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Id": "E:\\Du An Tot Nghiep\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\banner_01.png",
       "PackagePath": "staticwebassets\\images\\banner_01.png"
     },
@@ -3614,6 +3615,25 @@
     },
     {
       "Id": "E:\\Du An Tot Nghiep\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\js\\site.js",
+=======
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\Untitled.png",
+      "PackagePath": "staticwebassets\\img\\Untitled.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\ahihi.jpg",
+      "PackagePath": "staticwebassets\\img\\ahihi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\z4445025061371_51fcbd5d5623fcfe59efc158e4edb604.jpg",
+      "PackagePath": "staticwebassets\\img\\z4445025061371_51fcbd5d5623fcfe59efc158e4edb604.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\z4602923215239_e515aab778879c4eac8ba5858b190ce6.jpg",
+      "PackagePath": "staticwebassets\\img\\z4602923215239_e515aab778879c4eac8ba5858b190ce6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\js\\site.js",
+>>>>>>> main
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {

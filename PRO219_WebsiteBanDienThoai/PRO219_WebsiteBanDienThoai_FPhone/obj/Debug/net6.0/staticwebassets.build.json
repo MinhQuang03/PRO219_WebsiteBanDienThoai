@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "W/WYWfoGTe2n84DMuIgzUClypbxzKYJyhYTdL82kqsw=",
+=======
+  "Hash": "pk1fZc6TSK2ktXc/cd/g94hp5x9FcoctPNYkE5XOiKo=",
+>>>>>>> main
   "Source": "PRO219_WebsiteBanDienThoai_FPhone",
   "BasePath": "_content/PRO219_WebsiteBanDienThoai_FPhone",
   "Mode": "Default",
@@ -14620,7 +14624,79 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "E:\\Du An Tot Nghiep\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\banner_01.png",
+=======
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\ahihi.jpg",
+      "SourceId": "PRO219_WebsiteBanDienThoai_FPhone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\",
+      "BasePath": "_content/PRO219_WebsiteBanDienThoai_FPhone",
+      "RelativePath": "img/ahihi.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ahihi.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\Untitled.png",
+      "SourceId": "PRO219_WebsiteBanDienThoai_FPhone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\",
+      "BasePath": "_content/PRO219_WebsiteBanDienThoai_FPhone",
+      "RelativePath": "img/Untitled.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Untitled.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\z4445025061371_51fcbd5d5623fcfe59efc158e4edb604.jpg",
+      "SourceId": "PRO219_WebsiteBanDienThoai_FPhone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\",
+      "BasePath": "_content/PRO219_WebsiteBanDienThoai_FPhone",
+      "RelativePath": "img/z4445025061371_51fcbd5d5623fcfe59efc158e4edb604.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\z4445025061371_51fcbd5d5623fcfe59efc158e4edb604.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\z4602923215239_e515aab778879c4eac8ba5858b190ce6.jpg",
+      "SourceId": "PRO219_WebsiteBanDienThoai_FPhone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\",
+      "BasePath": "_content/PRO219_WebsiteBanDienThoai_FPhone",
+      "RelativePath": "img/z4602923215239_e515aab778879c4eac8ba5858b190ce6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\z4602923215239_e515aab778879c4eac8ba5858b190ce6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\js\\site.js",
+>>>>>>> main
       "SourceId": "PRO219_WebsiteBanDienThoai_FPhone",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Du An Tot Nghiep\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\",

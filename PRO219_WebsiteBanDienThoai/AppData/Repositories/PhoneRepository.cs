@@ -43,7 +43,12 @@ namespace AppData.Repositories
 
         public async Task<Phone> Update(Phone obj)
         {
-            _dbContext.Phones.Update(obj);
+            var a = await _dbContext.Phones.FindAsync(obj.Id);
+            a.PhoneName = obj.PhoneName;
+            a.Description = obj.Description;
+            a.Image = obj.Image;
+            a.IdProductionCompany = obj.IdProductionCompany;
+            _dbContext.Phones.Update(a);
             await _dbContext.SaveChangesAsync();
             return obj;
         }

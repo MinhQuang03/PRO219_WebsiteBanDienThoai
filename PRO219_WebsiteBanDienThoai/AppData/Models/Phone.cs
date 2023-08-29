@@ -12,6 +12,6 @@
 
         public Guid IdProductionCompany { get; set; }
 
-        public virtual ProductionCompany ProductionCompanies { get; set; }
+        public virtual ProductionCompany? ProductionCompanies { get; set; }
     }
 }
