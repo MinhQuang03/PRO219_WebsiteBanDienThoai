@@ -24,12 +24,6 @@ builder.Services.AddDbContext<FPhoneDbContext>(options => {
     options.UseSqlServer(@"Data Source=MSI\SQLEXPRESS;Initial Catalog=PRO219_WebsiteBanDienThoai;Integrated Security=True;TrustServerCertificate=True");
 });
 
-builder.Services.AddScoped<IChargingportTypeRepository, ChargingportTypeRepository>();
-builder.Services.AddScoped<IChipCPURepository, ChipCPURepository>();
-builder.Services.AddScoped<IChipGPURepository, ChipGPURepository>();
-builder.Services.AddScoped<IColorRepository, ColorRepository>();
-builder.Services.AddScoped<IPhoneRepository, PhoneRepository>();
-builder.Services.AddScoped<IProductionCompanyRepository, ProductionCompanyRepository>();
 
 
 

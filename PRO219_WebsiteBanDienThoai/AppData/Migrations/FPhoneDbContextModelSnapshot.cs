@@ -611,6 +611,8 @@ namespace AppData.Migrations
 
                     b.HasIndex("IdChargingport");
 
+                    b.HasIndex("IdChipCPU");
+
                     b.HasIndex("IdChipGPU");
 
                     b.HasIndex("IdColor");
@@ -1084,7 +1086,7 @@ namespace AppData.Migrations
 
                     b.HasOne("AppData.Models.ChipCPUs", "ChipCPUs")
                         .WithMany()
-                        .HasForeignKey("IdChipGPU")
+                        .HasForeignKey("IdChipCPU")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

@@ -10,7 +10,7 @@
 
         public Guid? IdColor { get; set; }
 
-        public PhoneDetaild PhoneDetailds { get; set; }
+        public PhoneDetaild? PhoneDetailds { get; set; }
 
     }
 }
