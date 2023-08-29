@@ -22,6 +22,7 @@ namespace AppData.Migrations
                     ImageUrl = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Status = table.Column<int>(type: "int", nullable: false),
                     Points = table.Column<int>(type: "int", nullable: true)
+
                 },
                 constraints: table =>
                 {

@@ -59,6 +59,7 @@ namespace AppData.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Accounts");
+
                 });
 
             modelBuilder.Entity("AppData.Models.Address", b =>
