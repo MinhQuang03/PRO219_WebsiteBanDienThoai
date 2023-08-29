@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\PRO219_WebsiteBanDienThoai_FPhone.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\PRO219_WebsiteBanDienThoai_FPhone.csproj": {}
   },
   "projects": {
-    "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj",
         "projectName": "AppData",
-        "projectPath": "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj",
-        "packagesPath": "C:\\Users\\VHC\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\AppData\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\AppData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\VHC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -87,24 +87,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\PRO219_WebsiteBanDienThoai_FPhone.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\PRO219_WebsiteBanDienThoai_FPhone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\PRO219_WebsiteBanDienThoai_FPhone.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\PRO219_WebsiteBanDienThoai_FPhone.csproj",
         "projectName": "PRO219_WebsiteBanDienThoai_FPhone",
-        "projectPath": "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\PRO219_WebsiteBanDienThoai_FPhone.csproj",
-        "packagesPath": "C:\\Users\\VHC\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\PRO219_WebsiteBanDienThoai_FPhone.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\VHC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,8 +119,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj": {
-                "projectPath": "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj"
+              "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj"
               }
             }
           }
@@ -181,7 +181,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

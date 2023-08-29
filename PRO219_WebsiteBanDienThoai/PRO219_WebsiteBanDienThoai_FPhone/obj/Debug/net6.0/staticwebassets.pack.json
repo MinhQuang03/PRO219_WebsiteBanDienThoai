@@ -3421,8 +3421,188 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\data\\products.json",
+      "PackagePath": "staticwebassets\\data\\products.json"
+    },
+    {
       "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\banner_01.png",
+      "PackagePath": "staticwebassets\\images\\banner_01.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\banner_02.png",
+      "PackagePath": "staticwebassets\\images\\banner_02.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\collection_01.png",
+      "PackagePath": "staticwebassets\\images\\collection_01.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\collection_02.png",
+      "PackagePath": "staticwebassets\\images\\collection_02.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\news1.jpg",
+      "PackagePath": "staticwebassets\\images\\news1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\news2.jpg",
+      "PackagePath": "staticwebassets\\images\\news2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\news3.jpg",
+      "PackagePath": "staticwebassets\\images\\news3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\news4.jpg",
+      "PackagePath": "staticwebassets\\images\\news4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\news5.jpg",
+      "PackagePath": "staticwebassets\\images\\news5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\popup.jpg",
+      "PackagePath": "staticwebassets\\images\\popup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\popup2.jpg",
+      "PackagePath": "staticwebassets\\images\\popup2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone1.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone10.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone11.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone12.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone12.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone2.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone3.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone4.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone5.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone6.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone7.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone8.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\headphone\\headphone9.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\headphone\\headphone9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\iPhone\\iphone1.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\iPhone\\iphone1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\iPhone\\iphone2.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\iPhone\\iphone2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\iPhone\\iphone3.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\iPhone\\iphone3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\iPhone\\iphone4.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\iPhone\\iphone4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\iPhone\\iphone5.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\iPhone\\iphone5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\iPhone\\iphone6.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\iPhone\\iphone6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\sumsung\\samsung1.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\sumsung\\samsung1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\sumsung\\samsung2.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\sumsung\\samsung2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\sumsung\\samsung3.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\sumsung\\samsung3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\sumsung\\samsung4.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\sumsung\\samsung4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\sumsung\\samsung5.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\sumsung\\samsung5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\products\\sumsung\\samsung6.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\sumsung\\samsung6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\profile1.jpg",
+      "PackagePath": "staticwebassets\\images\\profile1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\profile2.jpg",
+      "PackagePath": "staticwebassets\\images\\profile2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\profile3.jpg",
+      "PackagePath": "staticwebassets\\images\\profile3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\profile4.jpg",
+      "PackagePath": "staticwebassets\\images\\profile4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\sprite.svg",
+      "PackagePath": "staticwebassets\\images\\sprite.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\images\\testimonial.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\Hinhanhonline.jpg",
+      "PackagePath": "staticwebassets\\img\\Hinhanhonline.jpg"
     },
     {
       "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\img\\Untitled.png",
@@ -3441,8 +3621,20 @@
       "PackagePath": "staticwebassets\\img\\z4602923215239_e515aab778879c4eac8ba5858b190ce6.jpg"
     },
     {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\js\\products.js",
+      "PackagePath": "staticwebassets\\js\\products.js"
+    },
+    {
       "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
     },
     {
       "Id": "C:\\Users\\ADMIN\\Desktop\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai_FPhone\\wwwroot\\lib\\bootstrap\\LICENSE",
