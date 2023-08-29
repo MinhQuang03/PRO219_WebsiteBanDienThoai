@@ -104,7 +104,7 @@ namespace PRO219_WebsiteBanDienThoai_FPhone.Areas.Admin.Controllers
             {
                 return RedirectToAction("Index");
             }
-            return View(jsonData);
+            return BadRequest(response.Content.ReadAsStringAsync());
         }
     }
 }
