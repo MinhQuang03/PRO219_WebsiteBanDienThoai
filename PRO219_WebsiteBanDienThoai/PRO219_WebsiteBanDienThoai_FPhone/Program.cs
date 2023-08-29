@@ -28,7 +28,7 @@ app.UseEndpoints(endpoints =>
         "{area:exists}/{controller=LogIn}/{action=Index}/{id?}");
     endpoints.MapControllerRoute(
         "default",
-        "{controller=Home}/{action=Index}/{id?}");
+        "{controller=Home}/{action=ShowPhone}/{id?}");
 });
 
 app.Run();

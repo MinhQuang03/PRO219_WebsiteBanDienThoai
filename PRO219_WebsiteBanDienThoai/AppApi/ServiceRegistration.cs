@@ -9,6 +9,8 @@ namespace AppApi
         {
             services.AddScoped<IAccountStaffRepository, AccountStaffRepository>();
             services.AddScoped<ISimRepository, SimRepository>();
+            //services.AddScoped<IProductRepository,>();
+            
         }
     }
 }

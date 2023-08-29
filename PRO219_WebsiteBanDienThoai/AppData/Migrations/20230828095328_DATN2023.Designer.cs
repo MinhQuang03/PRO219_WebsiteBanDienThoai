@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AppData.Migrations
 {
     [DbContext(typeof(FPhoneDbContext))]
-    [Migration("20230808091218_FPhone")]
-    partial class FPhone
+    [Migration("20230828095328_DATN2023")]
+    partial class DATN2023
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -613,6 +613,8 @@ namespace AppData.Migrations
 
                     b.HasIndex("IdChargingport");
 
+                    b.HasIndex("IdChipCPU");
+
                     b.HasIndex("IdChipGPU");
 
                     b.HasIndex("IdColor");
@@ -1086,7 +1088,7 @@ namespace AppData.Migrations
 
                     b.HasOne("AppData.Models.ChipCPUs", "ChipCPUs")
                         .WithMany()
-                        .HasForeignKey("IdChipGPU")
+                        .HasForeignKey("IdChipCPU")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
