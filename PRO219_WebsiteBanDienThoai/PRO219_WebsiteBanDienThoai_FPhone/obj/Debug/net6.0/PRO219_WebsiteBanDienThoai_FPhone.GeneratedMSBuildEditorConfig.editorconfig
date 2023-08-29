@@ -9,157 +9,185 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PRO219_WebsiteBanDienThoai_FPhone
 build_property.RootNamespace = PRO219_WebsiteBanDienThoai_FPhone
-build_property.ProjectDir = C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone\
+build_property.ProjectDir = E:\Du An Tot Nghiep\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone
+build_property.MSBuildProjectDirectory = E:\Du An Tot Nghiep\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Create.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Blog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Blog/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Blog/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhcmdpbmdwb3J0VHlwZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Edit.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhcmdpbmdwb3J0VHlwZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Index.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhcmdpbmdwb3J0VHlwZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Create.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcENQVXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Edit.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcENQVXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Index.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcENQVXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Create.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcEdQVXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Edit.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcEdQVXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Index.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcEdQVXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Create.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Edit.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Index.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Home/Accounts.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Home/Accounts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxBY2NvdW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Home/Index.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/LogIn/Home.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/LogIn/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9nSW5cSG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/LogIn/Index.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/LogIn/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9nSW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Create.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Edit.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Index.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Create.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdGlvbkNvbXBhbnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Edit.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdGlvbkNvbXBhbnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Index.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdGlvbkNvbXBhbnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/Error.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_LoginLayout.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_LoginLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_SideNavPartialView.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_SideNavPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlTmF2UGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/SignUp/Index.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/SignUp/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2lnblVwXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/_ViewImports.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/_ViewStart.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/Index.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/Privacy.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/Error.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/ShowPhone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93UGhvbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/_ViewImports.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/_ViewStart.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-hwv7rjl1na
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_Layout.cshtml]
+[E:/Du An Tot Nghiep/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x2jdibdzou

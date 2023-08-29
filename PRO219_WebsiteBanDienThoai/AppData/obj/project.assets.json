@@ -2932,24 +2932,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\VHC\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\taibeo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj",
+      "projectUniqueName": "E:\\Du An Tot Nghiep\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj",
       "projectName": "AppData",
-      "projectPath": "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj",
-      "packagesPath": "C:\\Users\\VHC\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT Polytechnic\\DỰ ÁN TỐT NGHIỆP\\PRO219_WebsiteBanDienThoai\\AppData\\obj\\",
+      "projectPath": "E:\\Du An Tot Nghiep\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\AppData\\AppData.csproj",
+      "packagesPath": "C:\\Users\\taibeo\\.nuget\\packages\\",
+      "outputPath": "E:\\Du An Tot Nghiep\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\AppData\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\VHC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\taibeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3013,13 +3008,35 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.19, 6.0.19]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.19, 6.0.19]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.19, 6.0.19]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\Du An Tot Nghiep\\PRO219_WebsiteBanDienThoai\\PRO219_WebsiteBanDienThoai\\AppData\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
