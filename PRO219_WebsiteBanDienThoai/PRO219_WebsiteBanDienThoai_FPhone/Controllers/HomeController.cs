@@ -22,10 +22,6 @@ namespace PRO219_WebsiteBanDienThoai_FPhone.Controllers
         {
             return View();
         }
-        public IActionResult BlogManagement()
-        {
-            return View();
-        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
