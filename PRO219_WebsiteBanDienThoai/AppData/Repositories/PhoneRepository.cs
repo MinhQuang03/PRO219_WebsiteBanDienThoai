@@ -48,7 +48,7 @@ namespace AppData.Repositories
             a.Description = obj.Description;
             a.Image = obj.Image;
             a.IdProductionCompany = obj.IdProductionCompany;
-            _dbContext.Phones.Update(obj);
+            _dbContext.Phones.Update(a);
             await _dbContext.SaveChangesAsync();
             return obj;
         }
