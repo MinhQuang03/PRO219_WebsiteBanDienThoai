@@ -1,5 +1,6 @@
 ﻿using AppData.IRepositories;
 using AppData.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -45,6 +46,21 @@ namespace AppApi.Controllers
             }
 
             return Ok(result);
+        }
+        [HttpPost("signout")]
+        //[Authorize]
+        public async Task<IActionResult> SignOut()
+        {
+           var result = await _staffRepository.SignOut();
+           return Ok(result);
+        }
+
+        [HttpGet("get-all-staff")]
+        //[Authorize(Roles = "Admin")]
+        public async Task<List<ApplicationUser>> GetAll()
+        {
+            var result = await _staffRepository.GetAllAsync();
+            return result;
         }
 
     }

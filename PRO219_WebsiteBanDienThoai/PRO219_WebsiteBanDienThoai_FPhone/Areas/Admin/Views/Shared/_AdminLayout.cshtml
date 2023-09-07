@@ -1,4 +1,16 @@
-﻿<!DOCTYPE html>
+﻿@using System.IdentityModel.Tokens.Jwt
+@{
+    string name = "";
+    IHttpContextAccessor _contextAccessor = new HttpContextAccessor();
+    var token = _contextAccessor.HttpContext.Request.Cookies["token"];
+   
+
+    var handler = new JwtSecurityTokenHandler();
+    var jwtToken = handler.ReadJwtToken(token);
+   var claim = jwtToken.Claims.ToList();
+    name = claim.FirstOrDefault(c => c.Type == "UserName").Value;
+}
+<!DOCTYPE html>
 
 <html>
 <head>
@@ -112,6 +124,7 @@
 <script src="~/assets/js/popper.min.js"></script>
 <script src="~/assets/js/bootstrap.js"></script>
 <script src="~/assets/js/prism.js"></script>
+<script src="~/js/SignOut.js"></script>
 
 <div class="app header-success-info">
     <div class="layout">
@@ -125,7 +138,7 @@
                 </div>
                 <ul class="nav-right">
                     <li>
-                        <span class="font-size-20 lh-3 p-r-20">Docs v1.0.0</span>
+                        <span class="font-size-20 lh-3 p-r-20">Hello @name</span>
                     </li>
                 </ul>
             </div>

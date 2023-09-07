@@ -8,5 +8,7 @@ namespace AppData.IRepositories
         public Task<string> SignInAsync(SignInModel model);
 
         public Task<string> GenerateToken(ApplicationUser model);
+        public Task<List<ApplicationUser>> GetAllAsync();
+        public Task<string> SignOut();
     }
 }
