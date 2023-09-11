@@ -5,7 +5,7 @@
         public Guid Id { get; set; }
 
         public Guid IdBill { get; set; }
-        public Guid IdDiscount { get; set; }
+        public Guid? IdDiscount { get; set; }
 
         public int Number { get; set; }
 
