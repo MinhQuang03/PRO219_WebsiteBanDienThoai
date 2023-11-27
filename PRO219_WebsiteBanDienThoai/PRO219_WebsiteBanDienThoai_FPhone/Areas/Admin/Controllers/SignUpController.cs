@@ -1,13 +1,43 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Net.Http.Headers;
+using AppData.Models;
+using AppData.ViewModels.Accounts;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using PRO219_WebsiteBanDienThoai_FPhone.Areas.Admin.Filters;
 
-namespace PRO219_WebsiteBanDienThoai_FPhone.Areas.Admin.Controllers
+namespace PRO219_WebsiteBanDienThoai_FPhone.Areas.Admin.Controllers;
+
+[Area("Admin")]
+public class SignUpController : Controller
 {
-    [Area("Admin")]
-    public class SignUpController : Controller
+    private readonly HttpClient _client;
+    private readonly IHttpContextAccessor _contextAccessor;
+
+    public SignUpController(HttpClient client, IHttpContextAccessor contextAccessor)
     {
-        public IActionResult Index()
+        _client = client;
+        _contextAccessor = contextAccessor;
+    }
+
+    [AuthorizationFilter("Admin")]
+    public async Task<IActionResult> SignUp()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> SignUp(AdSignUpViewModel model)    
+    {
+       
+        model.Status = 0;
+        model.ImageUrl = string.Empty;
+        var result = await _client.PostAsJsonAsync("/api/Accounts/SignUp/Admin", model);
+        if (result.IsSuccessStatusCode)
         {
-            return View();
+            return RedirectToAction("Index", "Accounts"); 
         }
+
+        return View();
     }
 }

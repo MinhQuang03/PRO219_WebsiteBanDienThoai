@@ -1,4 +1,5 @@
 ﻿using AppData.Models;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,5 +16,6 @@ namespace AppData.IRepositories
         Task Delete(Guid id);
 
         Task<Blog> GetById(Guid id);
+        
     }
 }

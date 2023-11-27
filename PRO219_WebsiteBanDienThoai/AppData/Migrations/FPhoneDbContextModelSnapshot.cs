@@ -103,8 +103,8 @@ namespace AppData.Migrations
                     b.Property<string>("Address")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("CitizenId")
-                        .HasColumnType("int");
+                    b.Property<string>("CitizenId")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken()
@@ -232,8 +232,12 @@ namespace AppData.Migrations
                     b.Property<Guid>("IdBill")
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<Guid>("IdDiscount")
+                    b.Property<Guid?>("IdDiscount")
                         .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("NameImei")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Number")
                         .HasColumnType("int");
@@ -274,9 +278,6 @@ namespace AppData.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<string>("Content")
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<DateTime?>("CreatedDate")
                         .HasColumnType("datetime2");
 
@@ -289,6 +290,28 @@ namespace AppData.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Blogs");
+                });
+
+            modelBuilder.Entity("AppData.Models.BlogDetail", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Content")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid?>("IdBlog")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Image")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("IdBlog");
+
+                    b.ToTable("BlogDetails");
                 });
 
             modelBuilder.Entity("AppData.Models.Cart", b =>
@@ -402,7 +425,7 @@ namespace AppData.Migrations
                     b.Property<int>("Status")
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("TimeForm")
+                    b.Property<DateTime?>("TimeForm")
                         .HasColumnType("datetime2");
 
                     b.Property<DateTime?>("TimeTo")
@@ -451,9 +474,14 @@ namespace AppData.Migrations
                     b.Property<string>("Image")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<Guid?>("PhoneDetaildId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.HasKey("Id");
 
                     b.HasIndex("IdPhoneDetaild");
+
+                    b.HasIndex("PhoneDetaildId");
 
                     b.ToTable("ListImage");
                 });
@@ -733,6 +761,53 @@ namespace AppData.Migrations
                     b.ToTable("Rom");
                 });
 
+            modelBuilder.Entity("AppData.Models.SalePhoneDetaild", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("IdPhoneDetaild")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("IdSales")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("IdPhoneDetaild");
+
+                    b.HasIndex("IdSales");
+
+                    b.ToTable("SalePhoneDetailds");
+                });
+
+            modelBuilder.Entity("AppData.Models.Sales", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Note")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("ReducedAmount")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("Status")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("TimeForm")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("TimeTo")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Sales");
+                });
+
             modelBuilder.Entity("AppData.Models.Sim", b =>
                 {
                     b.Property<Guid>("Id")
@@ -760,11 +835,13 @@ namespace AppData.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Status")
                         .HasColumnType("int");
+
+                    b.Property<DateTime?>("Time")
+                        .HasColumnType("datetime2");
 
                     b.HasKey("Id");
 
@@ -787,7 +864,7 @@ namespace AppData.Migrations
                     b.Property<Guid>("IdPhone")
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<DateTime>("Time")
+                    b.Property<DateTime?>("TimeWarranty")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
@@ -985,9 +1062,7 @@ namespace AppData.Migrations
 
                     b.HasOne("AppData.Models.Discount", "Discounts")
                         .WithMany()
-                        .HasForeignKey("IdDiscount")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("IdDiscount");
 
                     b.Navigation("Bills");
 
@@ -1011,6 +1086,15 @@ namespace AppData.Migrations
                     b.Navigation("BillDetails");
 
                     b.Navigation("PhoneDetaild");
+                });
+
+            modelBuilder.Entity("AppData.Models.BlogDetail", b =>
+                {
+                    b.HasOne("AppData.Models.Blog", "Blogs")
+                        .WithMany()
+                        .HasForeignKey("IdBlog");
+
+                    b.Navigation("Blogs");
                 });
 
             modelBuilder.Entity("AppData.Models.Cart", b =>
@@ -1055,6 +1139,10 @@ namespace AppData.Migrations
                     b.HasOne("AppData.Models.PhoneDetaild", "PhoneDetailds")
                         .WithMany()
                         .HasForeignKey("IdPhoneDetaild");
+
+                    b.HasOne("AppData.Models.PhoneDetaild", null)
+                        .WithMany("Images")
+                        .HasForeignKey("PhoneDetaildId");
 
                     b.Navigation("PhoneDetailds");
                 });
@@ -1186,6 +1274,25 @@ namespace AppData.Migrations
                     b.Navigation("PhoneDetailds");
                 });
 
+            modelBuilder.Entity("AppData.Models.SalePhoneDetaild", b =>
+                {
+                    b.HasOne("AppData.Models.PhoneDetaild", "PhoneDetaild")
+                        .WithMany()
+                        .HasForeignKey("IdPhoneDetaild")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("AppData.Models.Sales", "Sales")
+                        .WithMany()
+                        .HasForeignKey("IdSales")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("PhoneDetaild");
+
+                    b.Navigation("Sales");
+                });
+
             modelBuilder.Entity("AppData.Models.Transaction", b =>
                 {
                     b.HasOne("AppData.Models.Bill", "Bills")
@@ -1281,6 +1388,11 @@ namespace AppData.Migrations
             modelBuilder.Entity("AppData.Models.Account", b =>
                 {
                     b.Navigation("Carts");
+                });
+
+            modelBuilder.Entity("AppData.Models.PhoneDetaild", b =>
+                {
+                    b.Navigation("Images");
                 });
 #pragma warning restore 612, 618
         }

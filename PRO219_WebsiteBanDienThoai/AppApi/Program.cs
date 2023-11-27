@@ -6,8 +6,6 @@ using AppData.FPhoneDbContexts;
 using AppData.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
-using AppData.IRepositories;
-using AppData.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,11 +19,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<FPhoneDbContext>().AddDefaultTokenProviders();
 
 builder.Services.AddDbContext<FPhoneDbContext>(options => {
-    options.UseSqlServer(@"Data Source=MSI\SQLEXPRESS;Initial Catalog=PRO219_WebsiteBanDienThoai;Integrated Security=True;TrustServerCertificate=True");
+    options.UseSqlServer(@builder.Configuration.GetConnectionString("PRO219_WebsiteBanDienThoai"));
 });
-
-
-
 
 
 ServiceRegistration.Configure(builder.Services);

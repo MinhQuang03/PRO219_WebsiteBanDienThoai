@@ -5,161 +5,320 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PRO219_WebsiteBanDienThoai_FPhone
 build_property.RootNamespace = PRO219_WebsiteBanDienThoai_FPhone
-build_property.ProjectDir = C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone\
+build_property.ProjectDir = D:\FPT Polytechnic\DỰ ÁN TỐT NGHIỆP\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Desktop\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone
+build_property.MSBuildProjectDirectory = D:\FPT Polytechnic\DỰ ÁN TỐT NGHIỆP\PRO219_WebsiteBanDienThoai\PRO219_WebsiteBanDienThoai_FPhone
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Create.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Accounts/Account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudHNcQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Battery/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmF0dGVyeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Battery/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmF0dGVyeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Battery/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmF0dGVyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/BlogDetail/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0RldGFpbFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/BlogDetail/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0RldGFpbFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/BlogDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0RldGFpbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Blog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Blog/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Blog/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhcmdpbmdwb3J0VHlwZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Edit.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhcmdpbmdwb3J0VHlwZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Index.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChargingportType/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhcmdpbmdwb3J0VHlwZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Create.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcENQVXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Edit.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcENQVXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Index.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipCPUs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcENQVXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Create.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcEdQVXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Edit.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcEdQVXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Index.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ChipGPUs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcEdQVXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Create.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Edit.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Index.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Color/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29sb3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Home/Accounts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxBY2NvdW50cy5jc2h0bWw=
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Imei/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW1laVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Imei/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW1laVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/LogIn/Home.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9nSW5cSG9tZS5jc2h0bWw=
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Imei/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW1laVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/LogIn/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9nSW5cSW5kZXguY3NodG1s
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Material/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWF0ZXJpYWxcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Create.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Material/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWF0ZXJpYWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Material/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWF0ZXJpYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Operating/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BlcmF0aW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Operating/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BlcmF0aW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Operating/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BlcmF0aW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/PhoneDetaild/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmVEZXRhaWxkXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/PhoneDetaild/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmVEZXRhaWxkXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/PhoneDetaild/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmVEZXRhaWxkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Edit.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Index.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Phone/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGhvbmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Create.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdGlvbkNvbXBhbnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Edit.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdGlvbkNvbXBhbnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Index.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/ProductionCompany/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdGlvbkNvbXBhbnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/Error.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Ram/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmFtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Ram/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmFtXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Ram/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmFtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Rom/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9tXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Rom/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9tXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Rom/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9tXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_LoginLayout.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_LoginLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_SideNavPartialView.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_SideNavPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlTmF2UGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/SignUp/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2lnblVwXEluZGV4LmNzaHRtbA==
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/SignUp/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2lnblVwXFNpZ25VcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/_ViewImports.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/SignUp/SignUpAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2lnblVwXFNpZ25VcEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Sim/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2ltXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Sim/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2ltXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Sim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2ltXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/_ViewStart.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/Index.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Accounts/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Accounts/CreateAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQ3JlYXRlQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Accounts/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/Privacy.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/Error.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Home/ShowPhone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93UGhvbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/PhoneDetail/PhoneDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVEZXRhaWxcUGhvbmVEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_FooterPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_LinkPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaW5rUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_ScripPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JpcFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_SideNavPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlTmF2UGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/_ViewImports.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/_ViewStart.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-hwv7rjl1na
 
-[C:/Users/ADMIN/Desktop/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_Layout.cshtml]
+[D:/FPT Polytechnic/DỰ ÁN TỐT NGHIỆP/PRO219_WebsiteBanDienThoai/PRO219_WebsiteBanDienThoai_FPhone/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x2jdibdzou

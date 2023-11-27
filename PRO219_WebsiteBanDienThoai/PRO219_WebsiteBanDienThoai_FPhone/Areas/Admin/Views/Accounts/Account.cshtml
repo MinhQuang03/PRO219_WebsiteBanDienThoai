@@ -1,0 +1,63 @@
+﻿@model IEnumerable<AppData.Models.ApplicationUser>
+
+@{
+    ViewData["Title"] = "Accounts";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Accounts</h1>
+
+<p>
+    <a asp-controller="SignUp" asp-action="SignUp">
+        <span class="title">Create New</span>
+        <span class="icon-holder">
+            <i class="fa fa-user-plus text-info pl-1"></i>
+        </span>
+    </a>
+</p>
+<table class="table">
+    <thead>
+    <tr>
+        @*<th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @if (Model != null)
+    {
+        @foreach (var item in Model)
+        {
+            <tr>
+               @* <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                @* <td>
+                        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                    </td>*@
+            </tr>
+        }
+    }
+    </tbody>
+</table>

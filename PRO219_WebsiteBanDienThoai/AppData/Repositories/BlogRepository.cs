@@ -1,6 +1,7 @@
 ﻿using AppData.FPhoneDbContexts;
 using AppData.IRepositories;
 using AppData.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -13,9 +14,11 @@ namespace AppData.Repositories
     public class BlogRepository:IBlogRepository
     {
         public readonly FPhoneDbContext _dbContext;
-        public BlogRepository(FPhoneDbContext dbContext)
+        //private readonly IWebHostEnvironment _environment;
+        public BlogRepository(FPhoneDbContext dbContext/*, IWebHostEnvironment environment*/)
         {
             _dbContext = dbContext;
+            //_environment = environment;
         }
 
         public async Task<Blog> Add(Blog obj)
@@ -46,12 +49,18 @@ namespace AppData.Repositories
         {
             var a = await _dbContext.Blogs.FindAsync(obj.Id);
             a.Title = obj.Title;
-            a.Content = obj.Content;
             a.CreatedDate = obj.CreatedDate;
             a.Status = obj.Status;
             _dbContext.Blogs.Update(a);
             await _dbContext.SaveChangesAsync();
             return obj;
         }
+
+        public Task<Blog> UploadFile(IFormFile file)
+        {
+            throw new NotImplementedException();
+        }
+
+        
     }
 }

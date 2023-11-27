@@ -5,7 +5,7 @@
         public Guid Id { get; set; }
         public Decimal ReducedAmount { get; set; }
 
-        public DateTime TimeForm { get; set; }
+        public DateTime? TimeForm { get; set; }
 
         public DateTime? TimeTo { get; set; }
 

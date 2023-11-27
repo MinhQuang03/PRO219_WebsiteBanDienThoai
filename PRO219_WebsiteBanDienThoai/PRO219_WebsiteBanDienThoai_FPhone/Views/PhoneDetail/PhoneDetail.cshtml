@@ -1,0 +1,126 @@
+﻿@{
+    ViewData["Title"] = "PhoneDetail";
+}
+
+@foreach (ProductDetailView item in Model)
+{
+    <section class="section product-details__section container">
+    <div class="product-detail__container">
+        <div class="product-detail__left">
+            <div class="details__container--left">
+                <div class="product__pictures">
+
+                    @*list ảnh sản phẩm *@
+                    <div class="pictures__container">
+                        <img class="picture" src="@item.Image" id="pic1"/>
+                    </div>
+
+                </div>
+                <div class="product__picture" id="product__picture">
+                    <!-- <div class="rect" id="rect"></div> -->
+                    <div class="picture__container">
+                        <img src="@item.Image" id="pic"/>
+                    </div>
+                </div>
+                <div class="zoom" id="zoom"></div>
+            </div>
+
+                <form action="@Url.Action("AddToCard", "Accounts", new { id = item.IdProduct })" method="get">
+                    <div class="product-details__btn">
+                        <button type="submit" class="add" name="addToCart">
+                            <span>
+                                <svg>
+                                    <use xlink:href="/images/sprite.svg#icon-cart-plus"></use>
+                                </svg>
+                            </span>
+                            ADD TO CART
+                        </button>
+                    </div>
+                </form>
+        </div>
+
+        <div class="product-detail__right">
+            <div class="product-detail__content">
+                <h3>@item.ProductName</h3>
+                <div class="price">
+                    <span class="new__price">@item.Price</span>
+                </div>
+                <div class="product__review">
+                    <div class="rating">
+                        <svg>
+                            <use xlink:href="/images/sprite.svg#icon-star-full"></use>
+                        </svg>
+                        <svg>
+                            <use xlink:href="/images/sprite.svg#icon-star-full"></use>
+                        </svg>
+                        <svg>
+                            <use xlink:href="/images/sprite.svg#icon-star-full"></use>
+                        </svg>
+                        <svg>
+                            <use xlink:href="/images/sprite.svg#icon-star-full"></use>
+                        </svg>
+                        <svg>
+                            <use xlink:href="/images/sprite.svg#icon-star-empty"></use>
+                        </svg>
+                    </div>
+                    <a href="#" class="rating__quatity">3 reviews</a>
+                </div>
+                <p>
+                    @item.Description
+                </p>
+                <div class="product__info-container">
+                    <ul class="product__info">
+                        <li class=" row">
+                            <a class="btn col-4 border rounded  mt-2">
+                                <div>
+                                    <strong>@item.Ram.Name - @item.Rom.Name</strong>
+                                </div>
+                                <span >@item.Price đ</span>
+                            </a>
+
+                        </li>
+                        <li>
+
+                            <div class="input-counter">
+                                <span>Quantity:</span>
+                                <div>
+                                    <span class="minus-btn">
+                                        <svg>
+                                            <use xlink:href="/images/sprite.svg#icon-minus"></use>
+                                        </svg>
+                                    </span>
+                                    <input type="text" min="1" value="1" max="10" class="counter-btn">
+                                    <span class="plus-btn">
+                                        <svg>
+                                            <use xlink:href="/images/sprite.svg#icon-plus"></use>
+                                        </svg>
+                                    </span>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <span>Subtotal:</span>
+                            <a href="#" class="new__price">$250.99</a>
+                        </li>
+                        <li>
+                            <span>Brand:</span>
+                            <a href="#">@item.Brand</a>
+                        </li>
+                        <li>
+                            <span>Product Type:</span>
+                            <a href="#">@item.Color</a>
+                        </li>
+                        <li>
+                            <span>Availability:</span>
+                            <a href="#" class="in-stock">In Stock (7 Items)</a>
+                        </li>
+                    </ul>
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </section>
+}

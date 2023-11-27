@@ -2,11 +2,6 @@
 using AppData.IRepositories;
 using AppData.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AppData.Repositories
 {
@@ -41,6 +36,7 @@ namespace AppData.Repositories
             return await _dbContext.Phones.FirstOrDefaultAsync(p => p.Id == id);
         }
 
+
         public async Task<Phone> Update(Phone obj)
         {
             var a = await _dbContext.Phones.FindAsync(obj.Id);
@@ -48,7 +44,7 @@ namespace AppData.Repositories
             a.Description = obj.Description;
             a.Image = obj.Image;
             a.IdProductionCompany = obj.IdProductionCompany;
-            _dbContext.Phones.Update(obj);
+            _dbContext.Phones.Update(a);
             await _dbContext.SaveChangesAsync();
             return obj;
         }

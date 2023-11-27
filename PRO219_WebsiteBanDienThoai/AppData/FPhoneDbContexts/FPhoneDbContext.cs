@@ -26,7 +26,7 @@ public class FPhoneDbContext : IdentityDbContext<ApplicationUser>
     public DbSet<ChargingportType> ChargingportType { get; set; }
     public DbSet<ChipCPUs> ChipCPUs { get; set; }
     public DbSet<ChipGPUs> ChipGPUs { get; set; }
-    public DbSet<Color> Colors { get; set; }
+    public DbSet<Color?> Colors { get; set; }
     public DbSet<Discount> Discount { get; set; }
     public DbSet<Imei> Imei { get; set; }
     public DbSet<ListImage> ListImage { get; set; }
@@ -45,10 +45,15 @@ public class FPhoneDbContext : IdentityDbContext<ApplicationUser>
     public DbSet<Warranty> Warranty { get; set; }
     public DbSet<WarrantyCard> WarrantyCards { get; set; }
     public DbSet<BillPhoneDetail> BillPhoneDetails { get; set; }
+    public DbSet<Sales> Sales { get; set; }
+    public DbSet<SalePhoneDetaild> SalePhoneDetailds { get; set; }
+    public DbSet<ApplicationUser> AspNetUsers { get; set; }
+    public DbSet<BlogDetail> BlogDetails { get; set; }
 
+    // có thể comment OnConfigurating này và k cần dùng nếu k sửa gì trong db nữa
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer(@"Data Source=MSI\SQLEXPRESS;Initial Catalog=PRO219_WebsiteBanDienThoai;Integrated Security=True;TrustServerCertificate=True");
+        optionsBuilder.UseSqlServer(@"Data Source=LAPTOP-4C55HFD4\SQLEXPRESS;Initial Catalog=PRO219_WebsiteBanDienThoai;Integrated Security=True;TrustServerCertificate=True");
     }
     protected override void OnModelCreating(ModelBuilder builder)
     {
